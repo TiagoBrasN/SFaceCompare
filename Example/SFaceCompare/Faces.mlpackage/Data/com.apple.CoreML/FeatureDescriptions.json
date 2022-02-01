@@ -1,0 +1,15 @@
+{
+  "Outputs" : {
+    "output" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "Inputs" : {
+    "data" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "TrainingInputs" : {
+
+  }
+}
